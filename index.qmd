@@ -1,11 +1,26 @@
 ---
-title: "brandonpizer.github.io"
+title: "Brandon Pizer"
+image: img/Professional_Headshot.jpeg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/brandonpizer
+      target: _blank
+    - icon: linkedin
+      text: LinkedIN
+      href: https://www.linkedin.com/in/brandon-pizer-750432325/
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:brandonpizer08@gmail.com
 ---
 
-This is a Quarto website.
+Hello! My name is Brandon Asano Pizer and I am student at Colorado State University studying ecosystem science and sustainability with a minor in geospatial information systems. My passion is climate change and I am working towards a career in environmental work, more specifically carbon management. I also have grown to like GIS and hope to incorporate it in my future work. It is really nice to meet you!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{}
 ```

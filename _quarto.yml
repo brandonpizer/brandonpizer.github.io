@@ -1,17 +1,26 @@
 project:
   type: website
-
+  output-dir: docs
 website:
-  title: "brandonpizer.github.io"
+  title: "Brandon Pizer"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: docs/Brandon Pizer Resume 2025.pdf
+        text: Resume
+      - href: https://github.com/brandonpizer
+        icon: github
+  page-footer: 
+    background: light
+    left: Copyright 2025, Brandon Pizer
+    right: Built with RStudio, Quarto, Git
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
