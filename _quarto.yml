@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "Brandon Pizer"
+  favicon: img/icon_image.jpg
   navbar:
     left:
       - href: index.qmd
@@ -20,9 +21,7 @@ website:
 
 format:
   html:
-    theme:
-      -superhero
-      -styles.scss
+    theme: superhero
     toc: true
 
 editor: visual
