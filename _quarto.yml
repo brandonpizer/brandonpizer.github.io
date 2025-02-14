@@ -20,8 +20,9 @@ website:
 
 format:
   html:
-    theme: superhero
-    css: styles.css
+    theme:
+      -superhero
+      -styles.scss
     toc: true
 
 editor: visual

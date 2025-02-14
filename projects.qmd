@@ -1,5 +1,10 @@
 ---
-title: "projects"
+title: "Projects"
 format: html
 ---
 
+## Current Project
+
+As of right now I am working to refine this website using Rstudio and GitHub. 
+
+This is my first ever project working with Quarto so the learning curve has been quite steep. However, I am learning many useful skills such as being able differentiate between file types, edit website attributes in .qmd documents, understanding file paths, and many more skills!
